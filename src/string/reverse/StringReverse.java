@@ -26,6 +26,8 @@ public class StringReverse {
         System.out.println("Reversed string: "+str);
         System.out.println();
         
+        System.out.println("Testing");
+        
     }
     
 }
